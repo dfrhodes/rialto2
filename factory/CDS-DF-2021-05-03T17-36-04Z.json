@@ -1,0 +1,9 @@
+{
+	"name": "CDS-DF-2021-05-03T17-36-04Z",
+	"location": "EastUS",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "db66b3b3-3cce-48d9-8214-f3d1df96b3ef",
+		"tenantId": "475743fd-c90e-46a3-a658-e5a10a5853bd"
+	}
+}
